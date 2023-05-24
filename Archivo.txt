@@ -1,0 +1,13 @@
+Ejercicio 1 
+1. Determina cuál es el directorio de tu usuario: pwd.
+2. Cuantos archivos contiene: ls / ls -a para ver los archivos ocultos.
+3. comando que muestre la fecha: stat archivo1.txt
+4. Mostrar los tamaños de los archivos: ls -sh / ls -s.
+5. guardar la salida del comando anterior en un archivo: ls -sh > main.sh
+6. mostrar los archivos de la carpeta de tu usuario con permisos: ls -l main.sh
+7. Crea una carpeta nueva en tu directorio de trabajo: mkdir (nombre de la carpeta)
+8. crea un archivo que contenga los procesos que está ejecutando tu sistema
+actualmente: ps (para ver el estado de los procesos) y ps -e > archivo4.txt (Enviar a
+un nuevo archivo).
+9. crea un archivo “mis_archivos.txt” que contenga un listado de los archivos de tu
+carpeta home: ls > mis_archivos.txt.
